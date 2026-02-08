@@ -1,0 +1,5 @@
+a = int(input("Enter the number 1: "))
+b = int(input("Enter the number 2: "))
+print(a+b)
+print("a is grater then b: ",a>b)
+print("Print the square of number A :",a**2)
