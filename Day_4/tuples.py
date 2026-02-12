@@ -1,0 +1,18 @@
+# a="apple","mango","banana","orange"
+# print(type(a))
+# b=("kiwi")
+# print(type(b))
+# c=("kiwi",)
+# print(type(c))
+a = ("vivo","oppo","apple","samsung","redmi","oneplus","lava")
+# print(a[1:3])
+# print(a[2:])
+# print(a[::2])
+# print(a[::-1])
+# for i in a:
+#     print(i)
+print(a)
+a=list(a)
+a.append("iqqo")
+a=tuple(a)
+print(a)
